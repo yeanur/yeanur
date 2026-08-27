@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **SWOC'23**
 
-- 👨‍💻 All of my projects are available at [https://yeanur.live](https://yeanur.live)
+- 👨‍💻 All of my projects are available at [https://yeanur.live](https://yeanur.site)
 
 - 💬 Ask me about **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
 
