@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **SWOC'23**
 
-- 👨‍💻 All of my projects are available at [https://yeanur.live](https://yeanur.site)
+- 👨‍💻 All of my projects are available at [https://yeanur.site](https://yeanur.site)
 
 - 💬 Ask me about **UI/UX Design, Web Development [HTML, CSS, JS] & Android Development[KOTLIN]**
 
-- 📫 How to reach me **yeanurshah@gmail.com**
+- 📫 How to reach me **yeanur.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
